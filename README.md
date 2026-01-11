@@ -12,7 +12,7 @@
 
 Ce projet met en œuvre un agent d'apprentissage par renforcement profond (DRL) pour l'allocation dynamique d'actifs dans un portefeuille financier. L'agent, basé sur l'algorithme **Soft Actor-Critic (SAC)**, apprend une stratégie d'investissement pour maximiser le rendement ajusté au risque sur un horizon de 10 ans.
 
-Veillez vous référez au [rapport](rapport\rapport_projet_rl.pdf) pour plus de détails.
+Veillez vous référez au [rapport](rapport/rapport_projet_rl.pdf) pour plus de détails.
 
 ---
 
